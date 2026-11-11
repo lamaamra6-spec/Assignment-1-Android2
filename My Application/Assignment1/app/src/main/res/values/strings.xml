@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fragments Hub</string>
+    <string name="hello_blank_fragment">Welcome!</string>
+
+    <!-- Text for the buttons. -->
+    <string name="continue_text">Continue</string>
+    <string name="finish_text">Finish</string>
+
+    <!-- Text for Fragment3. -->
+    <string name="confirmation">Confirmation</string>
+    <string name="hello_name">Hello, %1$s</string>
+    <string name="checkbox_text">I confirm I have read and agree to use the app </string>
+
+    <!-- Text for the exception message in onAttach(). -->
+    <string name="exception_message"> must implement the fragment interface</string>
+</resources>
